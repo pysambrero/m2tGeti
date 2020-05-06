@@ -15,4 +15,8 @@ public class MyClass {
     public void fonctionalite_C(){
 
     }
+
+    public void fonctionalite_D(){
+
+    }
 }
