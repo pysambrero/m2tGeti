@@ -23,4 +23,9 @@ public class MyClass {
     public void fonctionalite_E(){
 
     }
+
+    public void fonctionalite_F(){
+
+    }
+
 }
