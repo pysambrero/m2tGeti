@@ -19,4 +19,8 @@ public class MyClass {
     public void fonctionalite_D(){
 
     }
+
+    public void fonctionalite_E(){
+
+    }
 }
